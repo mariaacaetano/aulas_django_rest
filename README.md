@@ -1,5 +1,5 @@
 ## 📂 Desenvolvimento Web II
-Esse repositório foi criado para guardar versões de atividades propostar durante o período da disciplina de Bacharelado em Sistemas de Informação. 
+Esse repositório foi criado para guardar versões de atividades proposta durante o período da disciplina de Bacharelado em Sistemas de Informação. 
 É um repositório de finalidade acadêmica, puramente para apresentação de resultados. Cada branch faz parte de uma atividade proposta em sala.
 
 ## 📂 Web Development II
